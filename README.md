@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  <img src='./\_readme/assets/Home Template.png' align='center'></img>
+  <img src='./\_readme/assets/mockup.png' align='center'></img>
 </p>
 
 <p align='center'>
