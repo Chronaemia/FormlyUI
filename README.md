@@ -7,7 +7,6 @@
 </p>
 
 <br/><br/>
-<br/><br/>
 
 ## About the project:
 
@@ -17,6 +16,7 @@ This repository in particular is for **FormlyUI**, the VueJS front end that pair
 
 To see the current backlog/status of the project, we have a public feature board [here](https://trello.com/b/s4Rkd2lQ).
 
+<br/><br/>
 
 ## Developer Information:
 Building and running the project
