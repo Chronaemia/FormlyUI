@@ -6,6 +6,8 @@
   <b>Easy, embeddable forms for Javascript natives</b>
 </p>
 
+<br/><br/>
+<br/><br/>
 
 ## About the project:
 
