@@ -1,5 +1,5 @@
 <p align='center' style="background-color: #222222">
-<img src='\_readme/assets/logo.png' align='center'></img>
+<img src='./\_readme/assets/logo.png' align='center'></img>
 </p>
 
 <h2 align='center'>
