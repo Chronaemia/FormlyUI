@@ -2,13 +2,14 @@
   <img src='./\_readme/assets/logo.png' align='center'></img>
 </p>
 
-<h2 align='center'>
-  Easy, embeddable forms for JS lovers
-</h2>
+<p align='center'>
+  <b>Easy, embeddable forms for Javascript natives</b>
+</p>
+
 
 ## About the project:
 
-> ExpressJS form generation, embedding, monitoring, and notifications for Javascript Natives
+> ExpressJS form generation, embedding, monitoring, and notifications for Javascript natives
 
 This repository in particular is for **FormlyUI**, the VueJS front end that pairs with our ExpressJS backend. You can find the backend counterpart [here](). We will be releasing a docker box of the entire app in the near future, so watch this repository for updates.
 
